@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Project Ghost</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_win_screen">winScreen</string>
+    <string name="title_activity_game_start">gameStart</string>
+    <string name="title_activity_high_score">highScore</string>
+</resources>
